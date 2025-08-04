@@ -1,0 +1,14 @@
+body{background-image: url(compu.jpg);}
+
+h1{text-align: center; text-decoration: color(srgb red green blue); color: white; 
+border:white; outline: 1px solid; text-shadow: 1px 2px black} 
+
+.sobremi{color:white;text-align: center;text-decoration: underline; text-shadow: 1px 2px black; font-size: 150%;}
+
+.miexperiencia{color: white;text-align: center; text-decoration: underline;text-shadow: 1px 2px black;font-size: 150%;}
+
+#instagram{background-image: url(insta.jpg);border-radius: 70%}
+
+#facebook{background-image: url(face.jpg);border-radius: 70%;}
+
+.contacto{text-align: center;}
